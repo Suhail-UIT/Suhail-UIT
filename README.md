@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Suhail Khan<br>Full Stack Developer specializing in React.js, Node.js, and modern web applications<br>🔭 I’m currently working AI Summarizer with using; React, Tailwind Css, Framer Motion, and backend Python, Flask Fremwork , Gamini.<br>Connect with me:<br>www.linkedin.com/in/vivek-kumar-3b26a4267<br><br>Languages and Tools: C,  C++, MySql, Html, Css, JavaScript, React, Tailwind Css, Fremar Motion,<br>                                         MongoDB, Node.js, Express.js, Java, Python [You should never put a full stop on a career; only use “etc.” when needed.]<br><br>Goal: To become a Skill Software Developer.<br>
+Hi 👋, I'm Suhail Khan<br>Full Stack Developer specializing in React.js, Node.js, and modern web applications<br>🔭 I’m currently working AI Summarizer with using; React, Tailwind Css, Framer Motion, and backend Python, Flask Fremwork , Gamini.<br>Connect with me:<br>[www.linkedin.com/in/vivek-kumar-3b26a4267](https://www.linkedin.com/in/suhail-khan-a8011432b)<br><br>Languages and Tools: C,  C++, MySql, Html, Css, JavaScript, React, Tailwind Css, Fremar Motion,<br>                                         MongoDB, Node.js, Express.js, Java, Python [You should never put a full stop on a career; only use “etc.” when needed.]<br><br>Goal: To become a Skill Software Developer.<br>
 
 
 ## 🌐 Socials:
